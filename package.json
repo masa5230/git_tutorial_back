@@ -1,0 +1,10 @@
+{
+    "name": "circleci-javascript-example",
+    "author": "todate",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "26.1.0"
+    }
+}
